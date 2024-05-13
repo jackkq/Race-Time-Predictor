@@ -8,4 +8,5 @@ dependencies:
   - scikit-learn
   - matplotlib
   - numpy
+  - voila
 prefix: C:\Users\quiri\anaconda3\envs\timepredictor
