@@ -10,7 +10,7 @@ This program allows a user to input key information about a run (gender, distanc
 
 ## Getting Started
 
-To use the prediction tool, simply click on the Binder badge above (alternatively, click [here](https://mybinder.org/v2/gh/jackkq/Race-Time-Predictor/HEAD?urlpath=voila%2Frender%2Fpredictor.ipynb)). If you are interested in seeing how the model was built, check out the [model_build foler](model_build).
+To use the prediction tool, simply click on the Binder badge above (alternatively, click [here](https://mybinder.org/v2/gh/jackkq/Race-Time-Predictor/HEAD?urlpath=voila%2Frender%2Fpredictor.ipynb)). If you are interested in seeing how the model was built, check out the [model_build folder](model_build).
 
 ## Author
 
